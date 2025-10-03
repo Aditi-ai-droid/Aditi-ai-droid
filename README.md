@@ -1,3 +1,4 @@
+![logo](https://github.com/Aditi-ai-droid/Aditi-ai-droid/blob/main/Untitled%20design%20(2).png)
 <h1 align="center">Hi 👋, I'm Aditi Sundaram</h1>
 <h3 align="center">Frontend Developer | BCA Final Year | Learning Python & Web Development</h3>
 <img aligin="right"
