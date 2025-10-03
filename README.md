@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditi Sundaram</h1>
 <h3 align="center">Frontend Developer | BCA Final Year | Learning Python & Web Development</h3>
 <img aligin="right"
-<img align="right" alt="coding" width+"400" src="https://media.tenor.com/VbYjG-jloBkAAAAC/computer-working.gif"
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/VbYjG-jloBkAAAAC/computer-working.gif"
 - 🔭 I’m currently working on [Soulix](https://github.com/Aditi-ai-droid/soulix)
 
 - 🌱 I’m currently learning **Python, Flask, MongoDB, Data Visualization**
